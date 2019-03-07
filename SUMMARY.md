@@ -1,4 +1,5 @@
-# Table of contents
+# Summary
 
 * [Initial page](README.md)
- - [Gitbook 이란?](how-to-gitbook.md)
+    * [Gitbook 이란?](how-to-gitbook.md)
+
